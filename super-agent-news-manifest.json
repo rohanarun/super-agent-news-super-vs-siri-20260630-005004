@@ -1,0 +1,28 @@
+{
+  "citations": [
+    "[apple.com](https://www.apple.com/ca/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/)",
+    "[theverge.com](https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc)",
+    "[macrumors.com](https://www.macrumors.com/guide/ios-27-siri/)",
+    "[searchenginejournal.com](https://www.searchenginejournal.com/google-gemini-can-now-control-your-computer-hackers-are-already-targeting-ai-agents/)",
+    "[bwmarketingworld.com](https://bwmarketingworld.com/article/60-of-indian-consumers-want-personal-ai-agents-highest-in-asia-pacific-adobe-532145)"
+  ],
+  "design_plan": "rng_seed=42; hero_lines=2.5; aida=pass; bento_density=grid-auto-flow:dense verified; label_sweep=all competitors mentioned; button_contrast=black/white pills AA+",
+  "generated_at": "2026-06-30T00:50:12.807401+00:00",
+  "headline": "Super vs Siri \u2014 personal AI agents for real computer work",
+  "site_brief": {
+    "audience": "people comparing Super with Siri",
+    "competitor": "Siri",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Siri. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Siri AI agent",
+      "Siri AI assistant",
+      "Siri automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-siri",
+    "title": "Super vs Siri"
+  },
+  "summary": "Siri AI is Apple\u2019s deeply integrated, privacy\u2011first assistant for Apple devices. Super is built for people who want a personal AI agent that actually operates computers \u2014 and gets better and cheaper on repeated workflows by reusing a computer-use cache."
+}
